@@ -1,0 +1,15 @@
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.exe
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.deps.json
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.runtimeconfig.json
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.dll
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\bin\Debug\net6.0\Projeto1.pdb
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.csproj.AssemblyReference.cache
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfoInputs.cache
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.AssemblyInfo.cs
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.csproj.CoreCompileInputs.cache
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.dll
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\refint\Projeto1.dll
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.pdb
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\Projeto1.genruntimeconfig.cache
+C:\Users\Vitor Kayon\source\repos\Projeto1\Projeto1\obj\Debug\net6.0\ref\Projeto1.dll
